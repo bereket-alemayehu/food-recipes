@@ -3,9 +3,9 @@
     <!-- <NuxtRouteAnnouncer />
     <NuxtWelcome /> -->
     <div class="p-4 bg-gray-100 rounded-md mt-4">
-      <h2 class="text-2xl font-semibold mb-2 text-red-500">
-        Welcome to Your Recipe App!
-      </h2>
+      <h1 class=" font-semibold bg-gray-100 text-2xl">
+         Welcome to Your Recipe App!
+      </h1>
       <p>Hello Bekisha</p>
     </div>
   </div>
